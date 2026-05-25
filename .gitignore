@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# NuGet packages
+packages/
+
+# Logs
+*.log
+
+# Database local files
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
