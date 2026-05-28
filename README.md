@@ -13,7 +13,7 @@ O projeto foi desenvolvido com foco no gerenciamento de produtos, controle de es
 | 923204573 | Carlos Eduardo de Oliveira |
 | 922203257 | Joanice Matos dos Reis |
 | 922203115 | Gabriel de Lima Sovrani |
-| 922203138 | Gabriel Meneses |
+| 922203138 | Gabriel Menezes |
 | 925208551 | Samuel Santinelli Mantovani |
 | 922102276 | André Victor Bezerra Carabolante |
 
